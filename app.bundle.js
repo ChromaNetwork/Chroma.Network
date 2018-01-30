@@ -11079,7 +11079,7 @@ var Chroma = function (_Component) {
           _react2.default.createElement(
             'h5',
             null,
-            'Chroma Network'
+            'CHROMA Network'
           ),
           _react2.default.createElement(
             'p',
