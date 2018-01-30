@@ -10897,10 +10897,6 @@ var _reactMaterialize = __webpack_require__(368);
 
 __webpack_require__(409);
 
-var _chroma_bubble_ = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"../assets/chroma_bubble_1.png\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
-
-var _chroma_bubble_2 = _interopRequireDefault(_chroma_bubble_);
-
 var _chroma_logo = __webpack_require__(410);
 
 var _chroma_logo2 = _interopRequireDefault(_chroma_logo);
